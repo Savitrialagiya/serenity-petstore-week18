@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Users crud with steps","This method will create a new user record","SUCCESS","2023-01-03T22:00:16.630Z[Europe/London]","0.0","5.33"
+"Users crud with steps","This method will get and verify existing user record","SUCCESS","2023-01-03T22:00:21.986Z[Europe/London]","0.0","0.89"
+"Users crud with steps","This method will update and verify an existing user record","SUCCESS","2023-01-03T22:00:22.882Z[Europe/London]","0.0","0.62"
+"Users crud with steps","This method will delete and verify an existing user record","SUCCESS","2023-01-03T22:00:23.505Z[Europe/London]","0.0","1.17"
